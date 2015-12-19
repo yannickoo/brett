@@ -1,0 +1,17 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+brett {
+  display: block;
+}
+
+canvas {
+  width: 100%;
+  height: 100%;
+}
