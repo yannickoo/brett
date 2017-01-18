@@ -1,6 +1,7 @@
 html,
 body {
   height: 100%;
+  overflow: hidden;
 }
 
 body {
@@ -9,6 +10,7 @@ body {
 
 brett {
   display: block;
+  height: 100%;
 }
 
 canvas {
