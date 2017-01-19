@@ -1,7 +1,7 @@
 CACHE MANIFEST
-# c9552ac48e92c8ccd085ca42de1aa06i
+# c9552ac48e92c8ccd085ca42de1aa07i
 
 CACHE:
 index.html
 css/brett.css
-js/brett.js
+js/brett.min.js
